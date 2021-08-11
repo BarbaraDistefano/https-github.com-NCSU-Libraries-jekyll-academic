@@ -19,3 +19,8 @@ Barbara Distefano is Doctor Europaeus in Literary Studies. She has conducted her
 - Geocriticism
 - History of Education
 - Digital Humanities
+
+[I'm an inline-style link](http://u.osmfr.org/m/645628/)
+
+<iframe width="100%" height="300px" frameborder="0" allowfullscreen src="//umap.openstreetmap.fr/ro/map/wwt_645628?scaleControl=false&miniMap=false&scrollWheelZoom=false&zoomControl=true&allowEdit=false&moreControl=true&searchControl=null&tilelayersControl=null&embedControl=null&datalayersControl=true&onLoadPanel=undefined&captionBar=false"></iframe><p><a href="//umap.openstreetmap.fr/ro/map/wwt_645628">See full screen</a></p>
+
