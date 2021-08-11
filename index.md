@@ -4,13 +4,18 @@ excerpt: "About Me..."
 menutitle: Home
 menuorder: 1
 ---
+Mapping authors' papers hidden in Italian school archives.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Barbara Distefano is Doctor Europaeus in Literary Studies. She has conducted her PhD research at the universities of Palermo and Oxford. Her research focusses on the interactions between literature and education, with a focus on 20th century and school archives. She is author of the book Sciascia maestro di scuola (Carocci, 2020) and co-author of In Sicilia con Leonardo Sciascia (Perrone, 2021). She has published contributions to different volumes, as well as articles on national and international journals, from Lo Straniero to Arabeschi, Incontri, MeridioNews, Sociologia del lavoro, L’Ospite ingrato, Lingua Italiana Treccani and Il Manifesto.  
+
+
 
 ## Current Interests and Projects:
 
-- Lorem ipsum dolor sit amet
-- Lorem ipsum dolor sit amet
-- DLorem ipsum dolor sit amet
-- Lorem ipsum dolor sit amet
-- Lorem ipsum dolor sit amet
+- Authors' Papers
+- School Archives
+- School Stories
+- Sociology of Literature
+- Geocriticism
+- History of Education
+- Digital Humanities
