@@ -15,10 +15,12 @@ Barbara Distefano is Doctor Europaeus in Literary Studies. She has conducted her
 
 - Authors' Papers
 - School Archives
-- School Stories
-- Sociology of Literature
+- School novel
+- Sociology of work
 - Geocriticism
 - History of Education
+- Didactics of Literature
+- School publishing
 - Digital Humanities
 
 If you want to preview a map of the schools involved in the project, click [here](http://u.osmfr.org/m/645628/)
